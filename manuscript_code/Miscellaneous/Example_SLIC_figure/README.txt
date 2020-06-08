@@ -1,0 +1,1 @@
+This figure is simply an overlay of the included shapefile here (EPSG:4326) over the RGB orthomosaic from 2018. This is taken directly from the superpixels generated for each crown in code folder 1, stored in data folder 2
