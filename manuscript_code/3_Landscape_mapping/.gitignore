@@ -1,0 +1,9 @@
+*.csv
+*.dbf
+*.pdf
+*.png
+*.prj
+*.Rhistory
+*.RData
+*.shp
+*.shx

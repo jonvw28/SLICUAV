@@ -1,11 +1,2 @@
-*.csv
-*.dbf
-*.pdf
-*.png
-*.prj
 *.Rhistory
 *.RData
-*.shp
-*.shx
-!manuscript_code/Miscellaneous/*
-!example/*
