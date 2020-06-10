@@ -61,6 +61,10 @@ This directory includes all the code we used to undertake the analysis and gener
 
 Link to the DOI of preprint will be added and updated as we progress.
 
+## Data
+
+Data for this project are available currently from [this link](https://drive.google.com/drive/folders/1RBAQb14kThDA_3TZ51-GJO0wnFdbZAj7?usp=sharing). Once they are fully archived with NERC we will include the DOI for the archived data. This delay is owing to the volume of imagery data combined with restrictions on internet speed from working from home.
+
 ## Versions
 
 This library was built under Python 3.7.1. If you have any issues please do get in touch so I can investigate. We intend to further develop this pipeline and will archive versions of this library, or else link from here to any further developed approaches.
