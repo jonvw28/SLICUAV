@@ -59,7 +59,7 @@ This directory includes all the code we used to undertake the analysis and gener
 
 ## Manuscript
 
-Link to the DOI of preprint will be added and updated as we progress.
+The manuscript for this work is submitted and going through the process of review. In the meantime you can access our [preprint of the submission before review on arXiv](https://arxiv.org/abs/2006.06624)
 
 ## Data
 
